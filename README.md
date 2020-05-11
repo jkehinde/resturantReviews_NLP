@@ -1,6 +1,6 @@
 # Natural Language Processing - Resturant Reviews 
 
-This is a NLP project which reads a tsv file, containing 1000 restaurant reviews(text). With the bag-of-words model, a classifier is used to tells whether the restuarant review is a good or bad review.
+This is a NLP project which reads a tsv file, containing 1000 restaurant reviews(text). With the bag-of-words model, a classifier is used to tells whether the restaurant review is a good or bad review.
 
 The python code is broken down into the following section:
 
