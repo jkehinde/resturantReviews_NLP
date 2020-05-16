@@ -76,7 +76,7 @@ cm = table(test_set[, 692], y_pred)
 cm # view our correct and incorrect review 
 
 # Accuracy of the model 
-accuracy = cm[1,1]+cm[2,2]/sum(cm)
+accuracy = (cm[1,1]+cm[2,2])/sum(cm)
 round(accuracy, 2)
 
 # Precision of the model
